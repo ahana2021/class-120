@@ -1,0 +1,43 @@
+.header{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+    box-shadow: 10px 10px 18px lightblue;
+    font-family: 'Lobster', cursive;
+
+}
+.heading_div{
+    float:none;
+    background-color: white;
+    padding:10px;
+    border-radius: 10px;
+    color:black;
+    box-shadow:10px 10px 18px orange;
+
+}
+.heading_div2{
+    font-size:20px;
+}
+.result_para_tag{
+    box-shadow:10px 10px 18px lightpink;
+    font-size:20px;
+
+}
+.footer{
+    width:100%;
+    position:fixed;
+    bottom:0;
+    background-color: grey;
+    color:white;
+    line-height:3;
+    text-align:center;
+}
+.names_of_objects{
+    width:80px;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 10px 10px 18px orange;
+    border: 2px dotted gray;
+    margin-top:165px;
+}
